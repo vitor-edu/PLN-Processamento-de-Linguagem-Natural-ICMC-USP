@@ -9,7 +9,7 @@
 ###### Aula 1 Listas - comando de Python
 ###### lista -  (comandos : range, append, insert, sort, reverse).
 
-######Aula 2  Listas - Slice 
-######lista -  Slice                                     
+###### Aula 2  Listas - Slice 
+###### lista -  Slice                                     
 
 Na aula 2 apresentaremos o Slice iremos fazer algumas manipulações nos dados. 
