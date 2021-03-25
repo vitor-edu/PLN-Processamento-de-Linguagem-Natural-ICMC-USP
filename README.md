@@ -7,9 +7,7 @@
  Python para Processamento de Linguagem Natural é um curso introdutório de Processamento de Linguagem Natural e programação em Python. Iremos trabalhar com os toolkits NLTK e spaCy, o ambiente utilizado será o Google Colab.
 
 ###### Aula 1 Listas - comando de Python
-###### lista -  (comandos : range, append, insert, sort, reverse).
+lista -  (comandos : range, append, insert, sort, reverse).
 
-###### Aula 2  Listas - Slice 
-###### lista -  Slice                                     
-
+###### Aula 2  Listas - Slice                        
 Na aula 2 apresentaremos o Slice iremos fazer algumas manipulações nos dados. 
