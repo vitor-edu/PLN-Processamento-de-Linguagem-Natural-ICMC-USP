@@ -1,4 +1,4 @@
-#### Python para Processamento de Linguagem Natural - ICMC-USP
+#### PLN Python para Processamento de Linguagem Natural - ICMC-USP
 
 ##### Departamento de Ciências de Computação 
 ##### Instituto de Ciências Matemáticas e de Computação - Universidade de São Paulo
